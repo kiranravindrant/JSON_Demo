@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sV4elXe02gcHTSBevEUkV1OogZckfoamvtDYC98X/932ZVgwRg6XIXGbu6kQ1J+XZKlWoXe0jb5Uy5umGeUoww==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\JsonReader\\JsonReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

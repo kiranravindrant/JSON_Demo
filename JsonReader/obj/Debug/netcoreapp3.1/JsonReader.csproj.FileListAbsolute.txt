@@ -1,0 +1,45 @@
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.AssemblyReference.cache
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfoInputs.cache
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfo.cs
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CoreCompileInputs.cache
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.exe
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.deps.json
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.json
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.dev.json
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.dll
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.pdb
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CopyComplete
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.dll
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.pdb
+D:\DemoConsoleApp\DemoLab\JsonReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.genruntimeconfig.cache
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.exe
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.deps.json
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.json
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.dev.json
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.dll
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.pdb
+D:\New folder\JsonFileReader\JsonReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.AssemblyReference.cache
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfoInputs.cache
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfo.cs
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CoreCompileInputs.cache
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CopyComplete
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.dll
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.pdb
+D:\New folder\JsonFileReader\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.genruntimeconfig.cache
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.exe
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.deps.json
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.json
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.runtimeconfig.dev.json
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.dll
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\JsonReader.pdb
+D:\New folder\JsonReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.AssemblyReference.cache
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfoInputs.cache
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.AssemblyInfo.cs
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CoreCompileInputs.cache
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.csproj.CopyComplete
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.dll
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.pdb
+D:\New folder\JsonReader\obj\Debug\netcoreapp3.1\JsonReader.genruntimeconfig.cache
